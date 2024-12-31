@@ -1,0 +1,9 @@
+langchain-google-genai
+google-generativeai
+claudette
+pillow
+replicate
+PyYAML
+python-fasthtml
+transformers[torch]
+scikit-learn
